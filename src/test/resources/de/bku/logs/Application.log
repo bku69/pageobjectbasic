@@ -1,13 +1,13 @@
-17/01/2019 15:35:29 devpinoyLogger Config file loaded !!!
-17/01/2019 15:35:29 devpinoyLogger OR file loaded !!!
-17/01/2019 15:35:34 devpinoyLogger Chrome launched !!!
-17/01/2019 15:35:40 devpinoyLogger Navigated to: http://zoho.com
-17/01/2019 15:35:43 devpinoyLogger Clicking on an Element: loginlink_CSS
-17/01/2019 15:35:44 devpinoyLogger Typing in an Element: email_CSS entered value as tankret69@gmail.com
-17/01/2019 15:35:44 devpinoyLogger Typing in an Element: password_CSS entered value as Laber13%
-17/01/2019 15:35:44 devpinoyLogger Clicking on an Element: signbtn_CSS
-17/01/2019 15:35:51 devpinoyLogger Clicking on an Element: closebtn_CSS
-17/01/2019 15:35:59 devpinoyLogger Clicking on an Element: crmlink_CSS
-17/01/2019 15:35:59 devpinoyLogger Clicking on an Element: accountstab_XPATH
-17/01/2019 15:36:00 devpinoyLogger Clicking on an Element: createaccountbtn_XPATH
-17/01/2019 15:36:00 devpinoyLogger Typing in an Element: accountname_CSS entered value as Raman
+17/01/2019 15:57:41 devpinoyLogger Config file loaded !!!
+17/01/2019 15:57:41 devpinoyLogger OR file loaded !!!
+17/01/2019 15:57:45 devpinoyLogger Chrome launched !!!
+17/01/2019 15:57:51 devpinoyLogger Navigated to: http://zoho.com
+17/01/2019 15:57:53 devpinoyLogger Clicking on an Element: loginlink_CSS
+17/01/2019 15:57:54 devpinoyLogger Typing in an Element: email_CSS entered value as tankret69@gmail.com
+17/01/2019 15:57:54 devpinoyLogger Typing in an Element: password_CSS entered value as Laber13%
+17/01/2019 15:57:54 devpinoyLogger Clicking on an Element: signbtn_CSS
+17/01/2019 15:58:00 devpinoyLogger Clicking on an Element: closebtn_CSS
+17/01/2019 15:58:09 devpinoyLogger Clicking on an Element: crmlink_CSS
+17/01/2019 15:58:09 devpinoyLogger Clicking on an Element: accountstab_XPATH
+17/01/2019 15:58:10 devpinoyLogger Clicking on an Element: createaccountbtn_XPATH
+17/01/2019 15:58:11 devpinoyLogger Typing in an Element: accountname_CSS entered value as Raman
