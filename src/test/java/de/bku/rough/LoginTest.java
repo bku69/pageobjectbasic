@@ -17,6 +17,7 @@ public class LoginTest extends Page {
 
 	public static void main(String[] args) {
 		
+		// This is a rough package
 		HomePage home = new HomePage();
 		LoginPage lp = home.goToLogin();
 		ZohoAppPage zp = lp.doLogin("tankret69@gmail.com", "Laber13%");
